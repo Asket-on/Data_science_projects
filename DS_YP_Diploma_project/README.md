@@ -1,1 +1,0 @@
-In order to optimize production costs, the metallurgical plant "Tak Zakalyaem Stal" LLC decided to reduce the consumption of electricity during the steel processing stage. Our task is to build a model that will predict the final temperature of the steel after all processing stages.
